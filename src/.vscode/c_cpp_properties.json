@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/oillight/workspace/ros_project/turtlebot3_practice/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/oillight/workspace/ros_project/turtlebot3_practice/src/hls_lfcd_lds_driver/include/**",
+        "/home/oillight/workspace/ros_project/turtlebot3_practice/src/turtlebot3_machine_learning/model_test/include/**",
+        "/home/oillight/workspace/ros_project/turtlebot3_practice/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/oillight/workspace/ros_project/turtlebot3_practice/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/oillight/workspace/ros_project/turtlebot3_practice/src/turtlebot3/turtlebot3_slam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
